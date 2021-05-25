@@ -29,7 +29,10 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        Log.e(TAG,"我是王兮 我想搞事情")
+
+
+        Log.e(TAG,"我是王兮 我不想搞事情")
+
     }
 
 
