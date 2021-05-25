@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         Log.e(TAG,"合作开发测试")
         Log.d(ANOTHER,"测试多人")//我准备把这一行干掉
         Log.e(TAG,"我是王兮 我又写了垃圾代码")
-        Log.e(TAG,"我是王兮 我想搞事情")
+        Log.e(TAG,"我是王兮 我不想搞事情")
     }
 
 
